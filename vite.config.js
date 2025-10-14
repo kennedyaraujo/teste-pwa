@@ -12,8 +12,8 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
         name: 'Fake Store',
-        short_name: 'FakeStore',
-        description: 'Fake Store: Fantástica loja de produtos',
+        short_name: 'POrtfolio',
+        description: 'POrtfolio',
         theme_color: '#ffffff',
         icons: [
           {
